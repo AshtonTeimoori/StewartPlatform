@@ -1,6 +1,0 @@
-/mnt/c/Users/Ash/OneDrive/Documents/Personal/Projects/Ball_and_Plate_PID_Controller/arduino/run_on_arduino/platform_header/build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/Ash/OneDrive/Documents/Personal/Projects/Ball_and_Plate_PID_Controller/arduino/run_on_arduino/platform_header/build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Ash/OneDrive/Documents/Personal/Projects/Ball_and_Plate_PID_Controller/arduino/run_on_arduino/platform_header/build-debug/CMakeFiles/TestPlatform.dir
-/mnt/c/Users/Ash/OneDrive/Documents/Personal/Projects/Ball_and_Plate_PID_Controller/arduino/run_on_arduino/platform_header/build-debug/include/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/Ash/OneDrive/Documents/Personal/Projects/Ball_and_Plate_PID_Controller/arduino/run_on_arduino/platform_header/build-debug/include/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Ash/OneDrive/Documents/Personal/Projects/Ball_and_Plate_PID_Controller/arduino/run_on_arduino/platform_header/build-debug/include/CMakeFiles/platform.dir

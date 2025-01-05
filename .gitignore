@@ -1,0 +1,8 @@
+.vscode/*
+platform_header/.vscode/*
+platform_header/build/*
+# platform_header/build/*/*
+# platform_header/build/*/*/*
+platform_header/build-debug/*
+# platform_header/build-debug/*/*
+# platform_header/build-debug/*/*/*

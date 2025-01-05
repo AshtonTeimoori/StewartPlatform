@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/TestPlatform.dir/main.cpp.o  -o TestPlatform  include/libplatform.a 
