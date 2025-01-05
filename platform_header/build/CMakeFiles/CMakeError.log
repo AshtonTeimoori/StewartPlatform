@@ -1,0 +1,15 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: /mnt/c/Users/Ash/OneDrive/Documents/Personal/Projects/Ball_and_Plate_PID_Controller/arduino/run_on_arduino/platform_header/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f20ff/fast && /usr/bin/make -f CMakeFiles/cmTC_f20ff.dir/build.make CMakeFiles/cmTC_f20ff.dir/build
+make[1]: Entering directory '/mnt/c/Users/Ash/OneDrive/Documents/Personal/Projects/Ball_and_Plate_PID_Controller/arduino/run_on_arduino/platform_header/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f20ff.dir/testCCompiler.c.o
+/mnt/c/msys64/mingw64/bin/gcc.exe    -o CMakeFiles/cmTC_f20ff.dir/testCCompiler.c.o   -c /mnt/c/Users/Ash/OneDrive/Documents/Personal/Projects/Ball_and_Plate_PID_Controller/arduino/run_on_arduino/platform_header/build/CMakeFiles/CMakeTmp/testCCompiler.c
+cc1.exe: fatal error: /mnt/c/Users/Ash/OneDrive/Documents/Personal/Projects/Ball_and_Plate_PID_Controller/arduino/run_on_arduino/platform_header/build/CMakeFiles/CMakeTmp/testCCompiler.c: No such file or directory
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_f20ff.dir/build.make:66: CMakeFiles/cmTC_f20ff.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/mnt/c/Users/Ash/OneDrive/Documents/Personal/Projects/Ball_and_Plate_PID_Controller/arduino/run_on_arduino/platform_header/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_f20ff/fast] Error 2
+
+
+
